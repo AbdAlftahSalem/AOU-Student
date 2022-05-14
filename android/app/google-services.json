@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "696071520138",
+    "project_id": "aou-complaint-system",
+    "storage_bucket": "aou-complaint-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696071520138:android:ab4bd2402f22157e03d273",
+        "android_client_info": {
+          "package_name": "com.example.aou_online_platform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696071520138-36u2323frh9qhquqdsvtlaa08bncs597.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aou_online_platform",
+            "certificate_hash": "3057511375938b49768c075be127f8e1bba386ed"
+          }
+        },
+        {
+          "client_id": "696071520138-4ne373htsri2h8at4dg5ram4a4th931v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcRd_StzacVzPHLUcC-z-dWhFLb1YcoWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696071520138-4ne373htsri2h8at4dg5ram4a4th931v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
